@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning about sql, python, power bi, tableau, predictive models and neural networks
 - 💞️ I’m looking to collaborate on new proyects and knowledge
 - 📫 How to reach me: my linkedin https://www.linkedin.com/in/vanesamartinezp/, my email vanesa.martinezparedes161@gmail.com and my cellphone 3107365309
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 vanesamp07/vanesamp07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
